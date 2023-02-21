@@ -260,6 +260,8 @@ github.com/kkdai/bstream v0.0.0-20161212061736-f391b8402d23/go.mod h1:J+Gs4SYgM6
 github.com/klauspost/cpuid/v2 v2.0.12/go.mod h1:g2LTdtYhdyuGPqyWyv7qRAmj1WBqxuObKfj5c0PQa7c=
 github.com/klauspost/cpuid/v2 v2.0.14 h1:QRqdp6bb9M9S5yyKeYteXKuoKE4p0tGlra81fKOpWH8=
 github.com/klauspost/cpuid/v2 v2.0.14/go.mod h1:g2LTdtYhdyuGPqyWyv7qRAmj1WBqxuObKfj5c0PQa7c=
+github.com/klever-io/cadence-go-sdk-lite v1.0.0 h1:VK4xY5cAXIxq2shu709jgpU3NPYsd0QM3mO4mAE5ipo=
+github.com/klever-io/cadence-go-sdk-lite v1.0.0/go.mod h1:FS9jNEXUofnRhpB6iHrYSbm6DtRZXhWOfgS39SjTz+g=
 github.com/klever-io/flow-go-sdk-lite v1.0.0 h1:zOEORhznQe320+Uc4PHk0Pc0Cs1yw9zP4HCh+KzVNqE=
 github.com/klever-io/flow-go-sdk-lite v1.0.0/go.mod h1:1zHbB8fePdp8A9w5n/nONhOln/VX5FMGlM7gS9hKZvc=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 h1:mweAR1A6xJ3oS2pRaGiHgQ4OO8tzTaLawm8vnODuwDk=

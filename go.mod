@@ -56,6 +56,6 @@ require (
 )
 
 replace (
-	github.com/onflow/cadence => /Users/sibellysanches/Documents/projects/github/klever/cadence-go-sdk-lite
+	github.com/onflow/cadence => github.com/klever-io/cadence-go-sdk-lite v1.0.0
 	github.com/onflow/flow-go-sdk => github.com/klever-io/flow-go-sdk-lite v1.0.0
 )
